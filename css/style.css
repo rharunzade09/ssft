@@ -111,7 +111,7 @@ header.fixed #logo {
 
 #top {
   width: 100%;
-  background-image: url(https://www.lovelymockups.com/wp-content/uploads/2017/01/mackbook-on-table.jpg);
+  background-image: #2d3a43;
   background-blend-mode: multiply;
   background-color: #2e3a44;
   background-size: cover;
